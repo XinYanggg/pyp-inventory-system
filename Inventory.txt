@@ -1,0 +1,40 @@
+00001	Milk 1L	Dairy	Box	7	12	4	
+00002	Cheese 500g	Dairy	Pack	12	15	3	
+00003	Yogurt 200g	Dairy	Pack	4.5	20	2	
+00004	Ice Cream 1L	Dairy	Box	10	11	5	
+00005	Chicken Breast 500g	Freezer	Pack	20	8	5	
+00006	Fish Fillet 300g	Freezer	Pack	15	12	4	
+00007	Mixed Vegetables	Freezer	Pack	6.5	25	3	
+00008	Pizza 500g	Freezer	Pack	8.5	18	4	
+00009	Apple	Fruits	Pieces	2	50	30	
+00010	Banana	Fruits	Pieces	1.5	40	25	
+00011	Grapes	Fruits	Bunch	4	12	10	
+00012	Watermelon	Fruits	Piece	10	5	2	
+00013	Orange Juice 1L	Beverages	Bottle	5	20	15	
+00014	Cola 500ml	Beverages	Bottle	2.5	30	20	
+00015	Coffee 250g	Beverages	Pack	8	10	5	
+00016	Green Tea 100g	Beverages	Pack	6.5	15	5	
+00017	Beef Steak 300g	Meat	Pack	25	6	3	
+00018	Pork Chops 400g	Meat	Pack	18	8	4	
+00019	Lamb Rack 500g	Meat	Pack	30	4	2	
+00020	Chicken Wings 1kg	Meat	Pack	12	10	5	
+00021	Potato Chips 200g	Snacks	Pack	5	25	10	
+00022	Popcorn 300g	Snacks	Pack	4.5	30	15	
+00023	Chocolate Bar 100g	Snacks	Bar	3	20	5	
+00024	Mixed Nuts 250g	Snacks	Pack	7	12	5	
+00025	White Bread 500g	Bakery	Loaf	3.5	15	5	
+00026	Whole Wheat Bread	Bakery	Loaf	4	10	3	
+00027	Baguette	Bakery	Piece	5	8	2	
+00028	Croissant	Bakery	Piece	2.5	20	10	
+00029	Eggs 12-pack	Eggs	Pack	5	10	5	
+00030	Butter 250g	Dairy	Pack	6	15	5	
+00031	Jam 200g	Spreads	Jar	4	20	10	
+00032	Honey 500g	Spreads	Jar	8	12	5	
+00033	Rice 1kg	Grains	Bag	10	8	3	
+00034	Pasta 500g	Grains	Pack	5	12	5	
+00035	Quino 300g	Grains	Pack	8	10	5	
+00036	Oats 1kg	Grains	Bag	7	15	5	
+00037	Soy Sauce 500ml	Condiments	Bottle	3.5	20	10	
+00038	Vinegar 250ml	Condiments	Bottle	2.5	30	15	
+00039	Mustard 200g	Condiments	Bottle	4	15	5	
+00040	Ketchup 400g	Condiments	Bottle	5	10	5	

@@ -1,0 +1,11 @@
+Dairy
+Freezer
+Fruits
+Meat
+Beverages
+Snacks
+Bakery
+Eggs
+Spreads
+Grains
+Condiments
